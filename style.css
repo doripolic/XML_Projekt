@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0,
+}
+
+header {
+    background-color: darkgoldenrod;
+    width: 100%;
+}
+
+.naslov {
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.filmovi {
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.filmovi table {
+    width: 100%;
+    font-size: large;
+}
+
+
+.filmovi table, th, tr, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.filmovi td {
+    padding: 15px 0px;
+}
+
+.prvired {
+    font-weight: bold;
+    font-size:larger;
+}
+
+footer {
+    background-color:midnightblue;
+    color:white;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+.podnozje {
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center;
+    padding: 20px 0px;
+}

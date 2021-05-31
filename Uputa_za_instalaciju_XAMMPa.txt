@@ -1,0 +1,9 @@
+Budući da je vježba rađena sa PHP datotekom, istu je potrebno pokrenuti na lokalnom serveru preko XAMPP programa.
+
+Step 1: Preuzeti i instalirati XAMPP preko stranice https://www.apachefriends.org/index.html .
+
+Step 2: Nakon instalacije potrebno je pokrenuti datoteku naziva xamppcontrol.exe i ukljuciti servise "Apache" i "MySql" . Te iste servise ugasiti nakon završetka rada.
+
+Step 3: Otići na mjesto instalacije XAMPPa i pronaći direktorij "htdocs". Unutra smjestiti datoteku sa php-om. U ovom primjeru preuzeta datoteka kolege se zove XML_Projekt, pa bi putanja izgledala ovako: D:\XAMPP\htdocs\XML_Projekt
+
+Step 4: Provjeriti jesu li servisi "Apache" i "MySql" aktivni, te u adresnu traku u pregledniku upisati putanju do .php datoteke, kako bi se otvorila stranica. Ta putanja pocinje sa "localhost" te nakon toga ide sama putanja do datoteke u htdocs direktoriju. Iz gore navedenog primjera, adresa bi bila "localhost/XML_Projekt/index.php". Bilo kakva pitanja uputite u INF grupu :)

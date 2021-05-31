@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filmovi>
+    <film id="1">
+        <ImeFilma>Requiem for a Dream</ImeFilma>
+        <Redatelj>
+            <ImeRedatelja>Darren</ImeRedatelja>
+            <PrezimeRedatelja>Aronofsky</PrezimeRedatelja>
+        </Redatelj>
+        <Zanr>Drama</Zanr>
+        <Godina>2000</Godina>
+    </film>
+
+    <film id="2">
+        <ImeFilma>Inception</ImeFilma>
+        <Redatelj>
+            <ImeRedatelja>Christopher</ImeRedatelja>
+            <PrezimeRedatelja>Nolan</PrezimeRedatelja>
+        </Redatelj>
+        <Zanr>Triler</Zanr>
+        <Godina>2010</Godina>
+    </film>
+
+    <film id="3">
+        <ImeFilma>The Father</ImeFilma>
+        <Redatelj>
+            <ImeRedatelja>Florian</ImeRedatelja>
+            <PrezimeRedatelja>Zeller</PrezimeRedatelja>
+        </Redatelj>
+        <Zanr>Drama</Zanr>
+        <Godina>2021</Godina>
+    </film>
+
+    <film id="4">
+        <ImeFilma>Nice Guys</ImeFilma>
+        <Redatelj>
+            <ImeRedatelja>Shane</ImeRedatelja>
+            <PrezimeRedatelja>Black</PrezimeRedatelja>
+        </Redatelj>
+        <Zanr>Komedija</Zanr>
+        <Godina>2016</Godina>
+    </film>
+</filmovi>
